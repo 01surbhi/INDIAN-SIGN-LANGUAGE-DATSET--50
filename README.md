@@ -1,15 +1,15 @@
-# ISL-52
+# ISL-50
 Indian Sign Language dataset
-ISL-52: Indian Sign Language Dataset
+ISL-50: Indian Sign Language Dataset
 
-The ISL-52 dataset comprises 52 isolated Indian Sign Language words related to day-to-day activities, academics, daily conversation, and social life in India.
+The ISL-50 dataset comprises 52 isolated Indian Sign Language words related to day-to-day activities, academics, daily conversation, and social life in India.
 The dataset was collected for research in sign language recognition using deep learning.
 
  Dataset Details
 
-- Total Classes: 52
+- Total Classes: 50
 - Videos per class: 16
-- Total Videos: 832
+- Total Videos: 800
 - Participants: 4 students
 - Format: .mov
 - Resolution: 720p
@@ -27,18 +27,6 @@ ISL-52-Dataset/
 │
 └── ...
 
-The ISL-52 dataset contains 52 isolated Indian Sign Language words
-collected for research in sign language recognition using deep learning
-
-Dataset Details
-
-- Total Classes: 52
-- Videos per class: 16
-- Total Videos: 832
-- Participants: 4 students
-- Format: .mov
-- Resolution: 720p
-- Collection Year: 2025
 
 Dataset Structure
 
@@ -56,7 +44,7 @@ ISL-52-Dataset/
 
 The complete dataset is available on Google Drive:
 
-[Download ISL-52 Dataset](https://drive.google.com/file/d/1U-yAntsjRP2kNBsBB-0SxRKdEK7mc3pK/view?usp=sharing)
+
 
  License
 
