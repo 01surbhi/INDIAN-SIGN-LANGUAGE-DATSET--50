@@ -32,7 +32,7 @@ ISL-50-Dataset/
 
  Download Full Dataset
 
-The complete dataset is available on Google Drive:
+The complete dataset is available on OneDrive:
 
 
 
