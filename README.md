@@ -19,7 +19,7 @@ Dataset Structure
 
 Each class is stored in a separate folder:
 
-ISL-52-Dataset/
+ISL-50-Dataset/
 │
 ├── hello/
 ├── yes/
@@ -28,17 +28,7 @@ ISL-52-Dataset/
 └── ...
 
 
-Dataset Structure
 
-Each class is stored in a separate folder:
-
-ISL-52-Dataset/
-│
-├── hello/
-├── yes/
-├── thank_you/
-│
-└── ...
 
  Download Full Dataset
 
