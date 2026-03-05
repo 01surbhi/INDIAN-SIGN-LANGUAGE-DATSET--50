@@ -30,9 +30,9 @@ ISL-50-Dataset/
 
 
 
- Download Full Dataset
+ Download Full Dataset with thi link
 
-The complete dataset is available on OneDrive:
+The complete dataset is available on  https://drive.google.com/file/d/14HhiA4ki2x0_FO_YcRy-XiAR-g-O-bmk/view?usp=sharing
 
 
 
